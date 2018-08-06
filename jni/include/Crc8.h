@@ -3,6 +3,7 @@
 
 //test modification
 //test modification2
+//test modification3
 /****************************************
   校验和位宽:  8位
   生成多项式:  X^8+x^5+x^4+1  
