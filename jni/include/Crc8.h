@@ -3,7 +3,10 @@
 
 //test modification
 //test modification2
-//test modify3
+
+//test modify03
+//my boss is foolish
+
 /****************************************
   校验和位宽:  8位
   生成多项式:  X^8+x^5+x^4+1  
